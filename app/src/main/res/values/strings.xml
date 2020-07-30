@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Leaf Classifier</string>
+    <string name="app_name">Identiplant</string>
     <string name="uploadedContentDescription">Uploaded image from gallery.</string>
     <string name="clickClassify">Click to Classify</string>
 
