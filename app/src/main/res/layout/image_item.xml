@@ -30,7 +30,7 @@
         android:orientation="horizontal" />
 
     <LinearLayout
-        android:id="@+id/imageNameHolder"
+        android:id="@+id/nameHolder"
         android:transitionName="tNameHolder"
         android:layout_width="match_parent"
         android:layout_height="45dp"
@@ -39,7 +39,7 @@
         android:background="@android:color/black">
 
         <TextView
-            android:id="@+id/sampleImageName"
+            android:id="@+id/sampleName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
