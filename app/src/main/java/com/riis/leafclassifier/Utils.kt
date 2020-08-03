@@ -5,7 +5,7 @@ import android.graphics.Bitmap
 class Utils {
 
     companion object {
-        fun resize(image: Bitmap, maxWidth: Int, maxHeight: Int): Bitmap? {
+        fun resize(image: Bitmap, maxWidth: Int, maxHeight: Int): Bitmap {
             var image = image
             return if (maxHeight > 0 && maxWidth > 0) {
                 val width = image.width
